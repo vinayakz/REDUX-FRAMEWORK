@@ -1,4 +1,4 @@
-# REDUX-FRAMEWORK
+# CREATE CUSTOM THEME OPTIONS PANEL FOR WP CUSTOM THEME USING REDUX FRAMEWORK
 
 ## Hi guys,
 ## here is the code snippete custom Theme Options Panel for wp custom theme using Redux Framework
