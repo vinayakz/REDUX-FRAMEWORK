@@ -9,3 +9,5 @@
 if ( class_exists( 'Redux' ) ) {
     require_once (dirname(__FILE__) . '/redux/sample/barebones-config.php');
 }`
+
+### for reference of all in-built fields, you can check this file /redux/sample/sample-config.php
