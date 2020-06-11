@@ -13,9 +13,9 @@ function be_initialize_cmb_meta_boxes() {
 }
 require ( get_template_directory() . "/customs/CMB2/metaboxes.php");`
 
-## in the file /customs/CMB2/metaboxes.php
-## on line 480, there is custom post’s sample meta-box
-## on line 500, there is custom page-template’s sample meta-box
+**in the file /customs/CMB2/metaboxes.php**
+**on line 480, there is custom post’s sample meta-box**
+**on line 500, there is custom page-template’s sample meta-box**
 
 ## for reference of meta-fields, you can check this file /customs/CMB2/example-functions.php
 
